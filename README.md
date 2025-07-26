@@ -1,1 +1,2 @@
-# pubmed_fetcher
+# pubmed_fetcherPubMed Industry Author Fetcher – Python, Biopython, Poetry, GitHub, Click, ChatGPT (LLM)
+Created a command-line research tool that fetches and filters PubMed articles to identify non-academic authors. Integrated the Entrez API, parsed MEDLINE records, and exported clean data to CSV. Built using a modular structure (core.py, cli.py) with CLI arguments. Leveraged AI assistance via ChatGPT for development guidance and debugging. Demonstrated practical use of AI tools, large language models (LLMs), and modern Python environments like Poetry.
